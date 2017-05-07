@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+StroudViewTool::Renderer.copyright 'Johntae Stroud', 'All rights reserved'
+```
 
 ## Development
 
